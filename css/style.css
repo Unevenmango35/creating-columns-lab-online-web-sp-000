@@ -64,7 +64,7 @@ align-items: start;
 .med{
   width: 200%;
   height: 200%;
-  width: auto;
+  justify-self: end
 }
 
 .large{
