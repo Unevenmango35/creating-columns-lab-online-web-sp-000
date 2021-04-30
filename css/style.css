@@ -50,6 +50,7 @@ img:hover {
 .column {
   width: auto;
   display: inline-block;
+  order: 2;
 
 }
 /* create your tile classes! we recommend .small .med .large */
