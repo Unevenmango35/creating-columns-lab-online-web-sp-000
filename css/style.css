@@ -50,8 +50,8 @@ img:hover {
 .column {
   width: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr
-  vertical-align: top;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 20px;
 
 }
 /* create your tile classes! we recommend .small .med .large */
