@@ -64,9 +64,11 @@ align-items: start;
 .med{
   width: 200%;
   height: 200%;
+  width: auto;
 }
 
 .large{
   width: 300%;
   height: 300%;
+  width: auto;
 }
